@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <h1>
-    Hi there, I'm Goutam Jangid
+    Hi, I'm Goutam Jangid
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p>
-    <strong>MNNIT Graduate & Machine Learning Engineer</strong>
+    <strong>Machine Learning Engineer</strong>
   </p>
   <p>
     I'm passionate about building robust AI models that solve real-world problems.
