@@ -71,3 +71,19 @@ Here are some of the projects I've worked on.
 | **🖼️ Facial Expression Recognition** | An experimental project to classify human facial expressions using Convolutional Neural Networks (CNNs). Explored model architecture and data augmentation techniques with PyTorch. | `PyTorch` `Python` `OpenCV` `CNNs` |
 | **📸 OpenCV Image Data Collector** | *(Experience-based project)* A desktop application developed to automate the collection of training data for the FER model. It captured images from a webcam, packaged them, and emailed them automatically. | `Python` `OpenCV` `File I/O` |
 | **🤖 SMS Spam Classifier** | A machine learning model trained to classify SMS messages as 'spam' or 'ham' with high accuracy. The project covers the full ML pipeline from data cleaning to model evaluation. | `Scikit-learn` `Pandas` `NLTK` `Jupyter` |
+
+---
+
+### 📫 How to Reach Me:
+
+<p align="center">
+  <a href="mailto:your.email@example.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://huggingface.co/your-hf-username" target="blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
+  <a href="https://www.kaggle.com/your-kaggle-username" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
