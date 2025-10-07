@@ -77,13 +77,13 @@ Here are some of the projects I've worked on.
 ### 📫 How to Reach Me:
 
 <p align="center">
-  <a href="mailto:your.email@example.com" target="blank">
+  <a href="mailto:gautamj1610@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://huggingface.co/your-hf-username" target="blank">
+  <a href="https://huggingface.co/BuntySupari" target="blank">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
-  <a href="https://www.kaggle.com/your-kaggle-username" target="blank">
+  <a href="https://www.kaggle.com/buntysupari" target="blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
