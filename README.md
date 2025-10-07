@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <h1>
-    Hi there, I'm Goutam Jangid 👋
+    Hi there, I'm Goutam Jangid
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p>
-    <strong>Machine Learning Engineer</strong>
+    <strong>MNNIT Graduate & Machine Learning Engineer</strong>
   </p>
   <p>
     I'm passionate about building robust AI models that solve real-world problems.
@@ -12,7 +12,7 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/gautam-jangid-556379259/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -68,7 +68,6 @@ Here are some of the projects I've worked on.
 
 | Project Title | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 SMS Spam Classifier** | A machine learning model trained to classify SMS messages as either 'spam' or 'ham' with high accuracy. The project covers the full ML pipeline from data cleaning and EDA to model training and evaluation. | `Python` `Scikit-learn` `Pandas` `NLTK` `Jupyter` |
-| **📸 OpenCV Image Data Collector** | *(Experience-based project)* A desktop application developed to automate the collection of training data for a facial recognition model. It captured images from a webcam, packaged them into a `.zip` file, and emailed them automatically. | `Python` `OpenCV` `File I/O` |
-
----
+| **🖼️ Facial Expression Recognition** | An experimental project to classify human facial expressions using Convolutional Neural Networks (CNNs). Explored model architecture and data augmentation techniques with PyTorch. | `PyTorch` `Python` `OpenCV` `CNNs` |
+| **📸 OpenCV Image Data Collector** | *(Experience-based project)* A desktop application developed to automate the collection of training data for the FER model. It captured images from a webcam, packaged them, and emailed them automatically. | `Python` `OpenCV` `File I/O` |
+| **🤖 SMS Spam Classifier** | A machine learning model trained to classify SMS messages as 'spam' or 'ham' with high accuracy. The project covers the full ML pipeline from data cleaning to model evaluation. | `Scikit-learn` `Pandas` `NLTK` `Jupyter` |
