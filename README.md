@@ -69,7 +69,7 @@ Here are some of the projects I've worked on.
 | Project Title | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **🖼️ Facial Expression Recognition** | A project focused on the iterative process of building a facial expression classifier. I experimented with multiple approaches to improve performance, including different CNN architectures, various data augmentation techniques, and fine-tuning hyperparameters. | `PyTorch` `Python` `OpenCV` `CNNs` |
-| **📸 OpenCV Image Data Collector** | *(Experience-based project)* A desktop application developed to automate the collection of training data for the FER model. It captured images from a webcam, packaged them, and emailed them automatically. | `Python` `OpenCV` `File I/O` |
+| **📸 Custom Face Data Collector** | **Engineered a multi-threaded Windows application** to crowdsource custom datasets for deep learning. Decoupled UI rendering from file I/O to ensure lag-free capture and packaged the tool as a standalone executable (`.exe`) using **PyInstaller** for easy distribution. | `Python` `OpenCV` `PyInstaller` `Threading` |
 | **🤖 SMS Spam Classifier** | A machine learning model trained to classify SMS messages as 'spam' or 'ham' with high accuracy. The project covers the full ML pipeline from data cleaning to model evaluation. | `Scikit-learn` `Pandas` `NLTK` `Jupyter` |
 
 ---
