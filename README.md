@@ -68,9 +68,9 @@ Here are some of the projects I've worked on.
 
 | Project Title | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🖼️ Facial Expression Recognition** | A project focused on the iterative process of building a facial expression classifier. I experimented with multiple approaches to improve performance, including different CNN architectures, various data augmentation techniques, and fine-tuning hyperparameters. | `PyTorch` `Python` `OpenCV` `CNNs` |
+| **🚀 Real-Time Emotion AI (99.6% Acc)** | Engineered a personalized emotion recognition system. Surpassed standard models (69%) by building a **custom Data Pipeline** to ingest 3,000+ images and fine-tuning ResNet-18 for real-time inference. | `PyTorch` `ResNet-18` `OpenCV` `Data Engineering` |
 | **📸 Custom Face Data Collector** | **Engineered a multi-threaded Windows application** to crowdsource custom datasets for deep learning. Decoupled UI rendering from file I/O to ensure lag-free capture and packaged the tool as a standalone executable (`.exe`) using **PyInstaller** for easy distribution. | `Python` `OpenCV` `PyInstaller` `Threading` |
-| **🤖 SMS Spam Classifier** | A machine learning model trained to classify SMS messages as 'spam' or 'ham' with high accuracy. The project covers the full ML pipeline from data cleaning to model evaluation. | `Scikit-learn` `Pandas` `NLTK` `Jupyter` |
+| **🐧 LocalMan (Linux CLI Tool)** | A Python-based CLI utility that acts as a "Command Tutor." It uses a **Local LLM** to explain complex terminal commands in plain English, helping users master the **Linux Command Line** without leaving the shell. | `Python` `LLMs` `Linux/Bash` `CLI` |
 
 ---
 
